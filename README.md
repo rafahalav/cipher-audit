@@ -296,4 +296,4 @@ Este projeto está licenciado sob a **MIT License** - veja o arquivo [LICENSE](L
 **Status**: Active Development  
 **Última atualização**: Novembro 2026
 ```
-[![Copy](https://img.shields.io/badge/Feature-Copy_to_Clipboard-blue.svg)](https://github.com/rafahalav/cipher-audit)
+https://github.com/rafahalav/cipher-audit
