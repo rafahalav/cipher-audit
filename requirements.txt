@@ -1,0 +1,7 @@
+# Motor de Inferência
+ollama
+groq
+
+# Interface e Utilitários
+streamlit
+python-dotenv
