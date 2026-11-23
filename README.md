@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="./assets/cipher-audit-banner.png"
+       width="100%"
+       alt="Cipher Audit - Automated Linux Hardening Auditor">
+</p>
+
 # 🛡️ CIPHER AUDIT - Automated Linux Hardening Auditor
 
 [![Python 3.13+](https://img.shields.io/badge/Python-3.13+-blue.svg)](https://www.python.org/)
